@@ -402,7 +402,7 @@ This project is intended for educational and academic purposes.
 
 ## Author
 
-**Varalakshmi Kumar**
+**Varalakshmi K**
 
 AI / Machine Learning Project
 
